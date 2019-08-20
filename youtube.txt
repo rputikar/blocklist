@@ -1,0 +1,35 @@
+# Youtube Start
+0.0.0.0 youtube.com
+0.0.0.0 youtu.be
+0.0.0.0 au.youtube.com
+0.0.0.0 ca.youtube.com
+0.0.0.0 de.youtube.com
+0.0.0.0 jp.youtube.com
+0.0.0.0 ru.youtube.com
+0.0.0.0 tw.youtube.com
+0.0.0.0 uk.youtube.com
+0.0.0.0 youtube-ui.l.google.com
+0.0.0.0 ads.youtube.com
+0.0.0.0 accounts.youtube.com
+0.0.0.0 analytics.youtube.com
+0.0.0.0 apiblog.youtube.com
+0.0.0.0 creatoracademy.youtube.com
+0.0.0.0 s.youtube.com
+0.0.0.0 gdata.youtube.com
+0.0.0.0 gaming.youtube.com
+0.0.0.0 help.youtube.com
+0.0.0.0 img.youtube.com
+0.0.0.0 insight.youtube.com
+0.0.0.0 stage.gdata.youtube.com
+0.0.0.0 tv.youtube.com
+0.0.0.0 www.youtube-nocookie.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytimg.com
+0.0.0.0 ytimg.com
+0.0.0.0  i.ytimg.com
+0.0.0.0  s.ytimg.com
+0.0.0.0  www.youtube.com
+0.0.0.0 m.youtube.com
+# Youtube End
