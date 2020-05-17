@@ -1,8 +1,5 @@
-# Buzzfeed Start
-img.buzzfeed.com
-# Buzzfeed End
+# Distraction list
 
-# Discord Start
 discordapp.com
 discord.gg
 discord.media
@@ -12,10 +9,6 @@ images-ext-1.discordapp.net
 dl.discordapp.net
 images-ext-2.discordapp.net
 cdn.discordapp.com
-# Discord End
-
-
-# Facebook Start
 www.facebook.com
 fb.me
 facebook.com
@@ -131,17 +124,8 @@ external.xx.fbcdn.net
 messengerplatform.fb.com
 threatexchange.fb.com
 video.xx.fbcdn.net
-# Facebook End
-
-
-
-# FlipBoard Start
 beacon.flipboard.com
 fbprod.flipboard.com
-# FlipBoard End
-
-
-# imgur Start
 imgur.com
 m.imgur.com
 api.imgur.com
@@ -151,10 +135,6 @@ s.imgur.com
 p.imgur.com
 i.imgur.com
 i.stack.imgur.com
-# imgur End
-
-
-# Instagram Start
 instagram.com
 www.instagram.com
 badges.instagram.com
@@ -288,9 +268,6 @@ scontent-ort2-1.cdninstagram.com
 scontent-ort2-2.cdninstagram.com
 scontent-sin6-1.cdninstagram.com
 scontent-sin6-2.cdninstagram.com
-# Instagram End
-
-# issuu Start
 issuu.com
 www.issuu.com
 developers.issuu.com
@@ -305,21 +282,9 @@ static.issuu.com
 skin.issuu.com
 api.issuu.com
 help.issuu.com
-# issuu End
-
-
-# Kik Start
 www.kik.com
-# Kik End
-
-
-# MEGA Start
 mega.nz
 g.cdn1.mega.co.nz
-# MEGA End
-
-
-# Pinterest Start
 pinterest.com
 www.pinterest.com
 about.pinterest.com
@@ -365,10 +330,6 @@ passets-cdn.pinterest.com
 i.pinimg.com
 s.pinimg.com
 s-media-cache-aknimg.com
-# Pinterest End
-
-
-# Soundcloud Start
 soundcloud.com
 api-v2.soundcloud.com
 telemetry.soundcloud.com
@@ -388,15 +349,7 @@ a-v2.sndcdn.com
 ec-preview-media.sndcdn.com
 style.sndcdn.com
 va.sndcdn.com
-# Soundcloud End
-
-
-# Steam Start
 steamcommunity.com
-# Steam End
-
-
-# Tumblr Start
 tumblr.com
 www.tumblr.com
 tumblr.co
@@ -433,10 +386,6 @@ ls.srvcs.tumblr.com
 px.srvcs.tumblr.com
 96.media.tumblr.com
 97.media.tumblr.com
-# Tumblr End
-
-
-# Twitch Start
 twitch.tv
 www.twitch.tv
 app.twitch.tv
@@ -470,15 +419,9 @@ video-edge-a3711cbs.hls.ttvnw.net
 video-edge-a4da6d.sjcls.ttvnw.net
 video-edge-af973f.sjcls.ttvnw.net
 video-edge-7ea27cbs.hls.ttvnw.net
-# Twitch End
-
-# Twitter Start
 abs.twimg.com
 pbs.twimg.com
 ton.twimg.com
-# Twitter End
-
-# Vimeo Start
 vimeo.com
 api.vimeo.com
 www.vimeo.com
@@ -487,10 +430,6 @@ i.vimeocdn.com
 f.vimeocdn.com
 vimeo-hp-videos.global.ssl.fastly.net
 click.email.vimeo.com
-# Vimeo End
-
-
-# Whatsapp Start
 www-cdn.whatsapp.net
 faq.whatsapp.com
 crashlogs.whatsapp.net
@@ -531,14 +470,10 @@ e13.whatsapp.net
 e14.whatsapp.net
 e15.whatsapp.net
 e16.whatsapp.net
-# Whatsapp End
-
-# shopping and distraction
 ozbargain.com.au
 aliexpress.com
 www.aliexpress.com
 aelicdn.com
-
 ebay.com
 ebay.com.au
 i.ebayimg.com
@@ -547,7 +482,6 @@ ocsrest.ebay.com.au
 pages.ebay.com
 rover.ebay.com.au
 www.ebay.com.au
-
 aax-fe.amazon-adsystem.com
 amazon.com
 amazon.com.au
@@ -558,7 +492,6 @@ m.media-amazon.com
 unagi-fe.amazon.com
 www.amazon.com
 www.amazon.com.au
-
 cdn.optimizely.com
 gumtree.com.au
 i.ebayimg.com
@@ -567,9 +500,6 @@ ssl.google-analytics.com
 www.googletagmanager.com
 www.googletagservices.com
 www.gumtree.com.au
-
-
-# Youtube Start
 youtube.com
 youtu.be
 au.youtube.com
@@ -603,10 +533,6 @@ i.ytimg.com
 s.ytimg.com
 www.youtube.com
 m.youtube.com
-# Youtube End
-
-# Games
-# roblox
 images.rbxcdn.com
 metrics.roblox.com
 roblox.com
@@ -617,9 +543,6 @@ js.rbxcdn.com
 authsite.roblox.com
 roblox-api.arkoselabs
 static.rbxcdn.com
-# Games End
-
-# India News
 loksatta.com
 www.loksatta.com
 lokmat.com
@@ -649,11 +572,7 @@ www.osmanabadlive.com
 www.saamana.com
 aajtak.intoday.in
 intoday.in
-
-#  Additional fake news
 Shankhnad.org
-
-#  India fake news
 rightlog.in
 shankhnaad.net
 janamejayan.wordpress.com
