@@ -1,680 +1,730 @@
-
 # Buzzfeed Start
-0.0.0.0 img.buzzfeed.com
+img.buzzfeed.com
 # Buzzfeed End
 
 # Discord Start
-0.0.0.0 discordapp.com
-0.0.0.0  discord.gg
-0.0.0.0  discord.media
-0.0.0.0  media.discordapp.net
-0.0.0.0 status.discordapp.com
-0.0.0.0  images-ext-1.discordapp.net
-0.0.0.0  dl.discordapp.net
-0.0.0.0  images-ext-2.discordapp.net
-0.0.0.0 cdn.discordapp.com
+discordapp.com
+discord.gg
+discord.media
+media.discordapp.net
+status.discordapp.com
+images-ext-1.discordapp.net
+dl.discordapp.net
+images-ext-2.discordapp.net
+cdn.discordapp.com
 # Discord End
 
 
 # Facebook Start
-0.0.0.0  www.facebook.com
-0.0.0.0  fb.me
-0.0.0.0  facebook.com
-0.0.0.0  api.facebook.com
-0.0.0.0  apps.facebook.com
-0.0.0.0  attachments.facebook.com
-0.0.0.0  business.facebook.com
-0.0.0.0  bigzipfiles.facebook.com
-0.0.0.0  code.facebook.com
-0.0.0.0  check4.facebook.com
-0.0.0.0  check6.facebook.com
-0.0.0.0  connect.facebook.com
-0.0.0.0  d.facebook.com
-0.0.0.0  developers.facebook.com
-0.0.0.0  graph.facebook.com
-0.0.0.0  l.facebook.com
-0.0.0.0  login.facebook.com
-0.0.0.0  m.facebook.com
-0.0.0.0  mtouch.facebook.com
-0.0.0.0  mqtt.facebook.com
-0.0.0.0  mqtt-mini.facebook.com
-0.0.0.0  orcart.facebook.com
-0.0.0.0  pixel.facebook.com
-0.0.0.0  scontent.facebook.com
-0.0.0.0  ssl.facebook.com
-0.0.0.0  star.facebook.com
-0.0.0.0  secure.facebook.com
-0.0.0.0  staticxx.facebook.com
-0.0.0.0  touch.facebook.com
-0.0.0.0  upload.facebook.com
-0.0.0.0  vupload.facebook.com
-0.0.0.0  vupload2.facebook.com
-0.0.0.0  api-read.facebook.com
-0.0.0.0  b-api.facebook.com
-0.0.0.0  b-graph.facebook.com
-0.0.0.0  s-static.facebook.com
-0.0.0.0  zh-cn.facebook.com
-0.0.0.0  zh-tw.facebook.com
-0.0.0.0  edge-chat.facebook.com
-0.0.0.0  0-edge-chat.facebook.com
-0.0.0.0  1-edge-chat.facebook.com
-0.0.0.0  2-edge-chat.facebook.com
-0.0.0.0  3-edge-chat.facebook.com
-0.0.0.0  4-edge-chat.facebook.com
-0.0.0.0  5-edge-chat.facebook.com
-0.0.0.0  6-edge-chat.facebook.com
-0.0.0.0  channel-ecmp-05-ash3.facebook.com
-0.0.0.0  channel-staging-ecmp-05-ash3.facebook.com
-0.0.0.0  channel-testing-ecmp-05-ash3.facebook.com
-0.0.0.0  beta-chat-01-05-ash3.facebook.com
-0.0.0.0  s-static.ak.facebook.com
-0.0.0.0  star.c10r.facebook.com
-0.0.0.0  fbcdn.net
-0.0.0.0  connect.facebook.net
-0.0.0.0  ent-a.xx.fbcdn.net
-0.0.0.0  ent-b.xx.fbcdn.net
-0.0.0.0  ent-c.xx.fbcdn.net
-0.0.0.0  ent-d.xx.fbcdn.net
-0.0.0.0  ent-e.xx.fbcdn.net
-0.0.0.0  scontent.xx.fbcdn.net
-0.0.0.0  scontent-a.xx.fbcdn.net
-0.0.0.0  scontent-b.xx.fbcdn.net
-0.0.0.0  scontent-c.xx.fbcdn.net
-0.0.0.0  scontent-d.xx.fbcdn.net
-0.0.0.0  scontent-e.xx.fbcdn.net
-0.0.0.0  scontent-mxp.xx.fbcdn.net
-0.0.0.0  scontent-a-lax.xx.fbcdn.net
-0.0.0.0  scontent-a-sin.xx.fbcdn.net
-0.0.0.0  scontent-b-lax.xx.fbcdn.net
-0.0.0.0  scontent-b-sin.xx.fbcdn.net
-0.0.0.0  static.thefacebook.com
-0.0.0.0  attachment.fbsbx.com
-0.0.0.0  messenger.com
-0.0.0.0  www.messenger.com
-0.0.0.0  0-edge-chat.messenger.com
-0.0.0.0  1-edge-chat.messenger.com
-0.0.0.0  2-edge-chat.messenger.com
-0.0.0.0  3-edge-chat.messenger.com
-0.0.0.0  4-edge-chat.messenger.com
-0.0.0.0  5-edge-chat.messenger.com
-0.0.0.0  6-edge-chat.messenger.com
-0.0.0.0 snaptu-z.facebook.com
-0.0.0.0 snaptu-p1.facebook.com
-0.0.0.0 snaptu-p2.facebook.com
-0.0.0.0  edge-mqtt.facebook.com
-0.0.0.0 instantarticles.fb.com
-0.0.0.0 live.fb.com
-0.0.0.0 managingbias.fb.com
-0.0.0.0 nonprofits.fb.com
-0.0.0.0 rightsmanager.fb.com
-0.0.0.0 techprep.fb.com
-0.0.0.0 work.fb.com
-0.0.0.0 static.xx.fbcdn.net
-0.0.0.0 scontent-lax3-1.xx.fbcdn.net
-0.0.0.0 scontent-lax3-2.xx.fbcdn.net
-0.0.0.0 scontent-lax3-3.xx.fbcdn.net
-0.0.0.0 scontent-lax3-4.xx.fbcdn.net
-0.0.0.0 scontent-hkg3-1.xx.fbcdn.net
-0.0.0.0 scontent-hkg3-2.xx.fbcdn.net
-0.0.0.0 scontent-hkg3-3.xx.fbcdn.net
-0.0.0.0 z-1-scontent.xx.fbcdn.net
-0.0.0.0 video-lax3-1.xx.fbcdn.net
-0.0.0.0 video-lax3-2.xx.fbcdn.net
-0.0.0.0 video-lax3-3.xx.fbcdn.net
-0.0.0.0 video-lax3-4.xx.fbcdn.net
-0.0.0.0 video-mrs1-1.xx.fbcdn.net
-0.0.0.0 video-mrs1-2.xx.fbcdn.net
-0.0.0.0 video-mrs1-3.xx.fbcdn.net
-0.0.0.0 video-mrs1-4.xx.fbcdn.net
-0.0.0.0 video-hkg3-1.xx.fbcdn.net
-0.0.0.0 video-sit4-1.xx.fbcdn.net
-0.0.0.0 external.xx.fbcdn.net
-0.0.0.0  messengerplatform.fb.com
-0.0.0.0  threatexchange.fb.com
-0.0.0.0 video.xx.fbcdn.net
+www.facebook.com
+fb.me
+facebook.com
+api.facebook.com
+apps.facebook.com
+attachments.facebook.com
+business.facebook.com
+bigzipfiles.facebook.com
+code.facebook.com
+check4.facebook.com
+check6.facebook.com
+connect.facebook.com
+d.facebook.com
+developers.facebook.com
+graph.facebook.com
+l.facebook.com
+login.facebook.com
+m.facebook.com
+mtouch.facebook.com
+mqtt.facebook.com
+mqtt-mini.facebook.com
+orcart.facebook.com
+pixel.facebook.com
+scontent.facebook.com
+ssl.facebook.com
+star.facebook.com
+secure.facebook.com
+staticxx.facebook.com
+touch.facebook.com
+upload.facebook.com
+vupload.facebook.com
+vupload2.facebook.com
+api-read.facebook.com
+b-api.facebook.com
+b-graph.facebook.com
+s-static.facebook.com
+zh-cn.facebook.com
+zh-tw.facebook.com
+edge-chat.facebook.com
+ge-chat.facebook.com
+1-edge-chat.facebook.com
+2-edge-chat.facebook.com
+3-edge-chat.facebook.com
+4-edge-chat.facebook.com
+5-edge-chat.facebook.com
+6-edge-chat.facebook.com
+channel-ecmp-sh3.facebook.com
+channel-staging-ecmp-sh3.facebook.com
+channel-testing-ecmp-sh3.facebook.com
+beta-chat-5-ash3.facebook.com
+s-static.ak.facebook.com
+star.c1acebook.com
+fbcdn.net
+connect.facebook.net
+ent-a.xx.fbcdn.net
+ent-b.xx.fbcdn.net
+ent-c.xx.fbcdn.net
+ent-d.xx.fbcdn.net
+ent-e.xx.fbcdn.net
+scontent.xx.fbcdn.net
+scontent-a.xx.fbcdn.net
+scontent-b.xx.fbcdn.net
+scontent-c.xx.fbcdn.net
+scontent-d.xx.fbcdn.net
+scontent-e.xx.fbcdn.net
+scontent-mxp.xx.fbcdn.net
+scontent-a-lax.xx.fbcdn.net
+scontent-a-sin.xx.fbcdn.net
+scontent-b-lax.xx.fbcdn.net
+scontent-b-sin.xx.fbcdn.net
+static.thefacebook.com
+attachment.fbsbx.com
+messenger.com
+www.messenger.com
+ge-chat.messenger.com
+1-edge-chat.messenger.com
+2-edge-chat.messenger.com
+3-edge-chat.messenger.com
+4-edge-chat.messenger.com
+5-edge-chat.messenger.com
+6-edge-chat.messenger.com
+snaptu-z.facebook.com
+snaptu-p1.facebook.com
+snaptu-p2.facebook.com
+edge-mqtt.facebook.com
+instantarticles.fb.com
+live.fb.com
+managingbias.fb.com
+nonprofits.fb.com
+rightsmanager.fb.com
+techprep.fb.com
+work.fb.com
+static.xx.fbcdn.net
+scontent-lax3-1.xx.fbcdn.net
+scontent-lax3-2.xx.fbcdn.net
+scontent-lax3-3.xx.fbcdn.net
+scontent-lax3-4.xx.fbcdn.net
+scontent-hkg3-1.xx.fbcdn.net
+scontent-hkg3-2.xx.fbcdn.net
+scontent-hkg3-3.xx.fbcdn.net
+z-1-scontent.xx.fbcdn.net
+video-lax3-1.xx.fbcdn.net
+video-lax3-2.xx.fbcdn.net
+video-lax3-3.xx.fbcdn.net
+video-lax3-4.xx.fbcdn.net
+video-mrs1-1.xx.fbcdn.net
+video-mrs1-2.xx.fbcdn.net
+video-mrs1-3.xx.fbcdn.net
+video-mrs1-4.xx.fbcdn.net
+video-hkg3-1.xx.fbcdn.net
+video-sit4-1.xx.fbcdn.net
+external.xx.fbcdn.net
+messengerplatform.fb.com
+threatexchange.fb.com
+video.xx.fbcdn.net
 # Facebook End
 
 
 
 # FlipBoard Start
-0.0.0.0 beacon.flipboard.com
-0.0.0.0 fbprod.flipboard.com
+beacon.flipboard.com
+fbprod.flipboard.com
 # FlipBoard End
 
 
 # imgur Start
-0.0.0.0  imgur.com
-0.0.0.0  m.imgur.com
-0.0.0.0  api.imgur.com
-0.0.0.0  www.imgur.com
-0.0.0.0  store.imgur.com
-0.0.0.0  s.imgur.com
-0.0.0.0  p.imgur.com
-0.0.0.0  i.imgur.com
-0.0.0.0  i.stack.imgur.com
+imgur.com
+m.imgur.com
+api.imgur.com
+www.imgur.com
+store.imgur.com
+s.imgur.com
+p.imgur.com
+i.imgur.com
+i.stack.imgur.com
 # imgur End
 
 
 # Instagram Start
-0.0.0.0  instagram.com
-0.0.0.0  www.instagram.com
-0.0.0.0  badges.instagram.com
-0.0.0.0  graph.instagram.com
-0.0.0.0 logger.instagram.com
-0.0.0.0 maps.instagram.com
-0.0.0.0  i.instagram.com
-0.0.0.0  api.instagram.com
-0.0.0.0  help.instagram.com
-0.0.0.0  platform.instagram.com
-0.0.0.0  blog.instagram.com
-0.0.0.0  images.ak.instagram.com
-0.0.0.0  static.ak.instagram.com
-0.0.0.0 scontent.cdninstagram.com
-0.0.0.0  scontent-a.cdninstagram.com
-0.0.0.0  scontent-b.cdninstagram.com
-0.0.0.0 scontent-a-ams.cdninstagram.com
-0.0.0.0 scontent-b-ams.cdninstagram.com
-0.0.0.0 scontent-ams3-1.cdninstagram.com
-0.0.0.0  scontent-a-amt.cdninstagram.com
-0.0.0.0  scontent-b-amt.cdninstagram.com
-0.0.0.0  scontent-amt2-1.cdninstagram.com
-0.0.0.0  scontent-a-arn.cdninstagram.com
-0.0.0.0  scontent-b-arn.cdninstagram.com
-0.0.0.0  scontent-arn2-1.cdninstagram.com
-0.0.0.0  scontent-a-atl.cdninstagram.com
-0.0.0.0  scontent-b-atl.cdninstagram.com
-0.0.0.0  scontent-atl3-1.cdninstagram.com
-0.0.0.0  scontent-a-bog.cdninstagram.com
-0.0.0.0  scontent-b-bog.cdninstagram.com
-0.0.0.0  scontent-bog1-1.cdninstagram.com
-0.0.0.0  scontent-a-bru.cdninstagram.com
-0.0.0.0  scontent-b-bru.cdninstagram.com
-0.0.0.0  scontent-bru2-1.cdninstagram.com
-0.0.0.0 scontent-a-cdg.cdninstagram.com
-0.0.0.0 scontent-b-cdg.cdninstagram.com
-0.0.0.0 scontent-cdg2-1.cdninstagram.com
-0.0.0.0 scontent-a-eze.cdninstagram.com
-0.0.0.0 scontent-b-eze.cdninstagram.com
-0.0.0.0 scontent-eze1-1.cdninstagram.com
-0.0.0.0 scontent-a-frt.cdninstagram.com
-0.0.0.0 scontent-b-frt.cdninstagram.com
-0.0.0.0 scontent-frt3-1.cdninstagram.com
-0.0.0.0  scontent-a-frx.cdninstagram.com
-0.0.0.0  scontent-b-frx.cdninstagram.com
-0.0.0.0  scontent-frx5-1.cdninstagram.com
-0.0.0.0 scontent-a-gru.cdninstagram.com
-0.0.0.0 scontent-b-gru.cdninstagram.com
-0.0.0.0  scontent-a-hkg.cdninstagram.com
-0.0.0.0  scontent-b-hkg.cdninstagram.com
-0.0.0.0  scontent-a-iad.cdninstagram.com
-0.0.0.0  scontent-b-iad.cdninstagram.com
-0.0.0.0  scontent-iad.cdninstagram.com
-0.0.0.0  scontent-iad3-1.cdninstagram.com
-0.0.0.0  scontent-a-icn.cdninstagram.com
-0.0.0.0  scontent-b-icn.cdninstagram.com
-0.0.0.0  scontent-icn1-1.cdninstagram.com
-0.0.0.0 scontent-a-kut.cdninstagram.com
-0.0.0.0 scontent-b-kut.cdninstagram.com
-0.0.0.0  scontent-a-lax.cdninstagram.com
-0.0.0.0  scontent-b-lax.cdninstagram.com
-0.0.0.0  scontent-lax.cdninstagram.com
-0.0.0.0  scontent-a-lga.cdninstagram.com
-0.0.0.0  scontent-b-lga.cdninstagram.com
-0.0.0.0  scontent-lga.cdninstagram.com
-0.0.0.0  scontent-lga3-1.cdninstagram.com
-0.0.0.0  scontent-a-lhr.cdninstagram.com
-0.0.0.0  scontent-b-lhr.cdninstagram.com
-0.0.0.0  scontent-lhr3-1.cdninstagram.com
-0.0.0.0 scontent-a-lht.cdninstagram.com
-0.0.0.0 scontent-b-lht.cdninstagram.com
-0.0.0.0 scontent-lht6-1.cdninstagram.com
-0.0.0.0 scontent-a-mad.cdninstagram.com
-0.0.0.0 scontent-b-mad.cdninstagram.com
-0.0.0.0 scontent-mad1-1.cdninstagram.comc
-0.0.0.0  scontent-a-mrs.cdninstagram.com
-0.0.0.0  scontent-b-mrs.cdninstagram.com
-0.0.0.0  scontent-mrs1-1.cdninstagram.com
-0.0.0.0 scontent-a-mxp.cdninstagram.com
-0.0.0.0 scontent-b-mxp.cdninstagram.com
-0.0.0.0 scontent-mxp1-1.cdninstagram.com
-0.0.0.0  scontent-a-nrt.cdninstagram.com
-0.0.0.0  scontent-b-nrt.cdninstagram.com
-0.0.0.0  scontent-nrt1-1.cdninstagram.com
-0.0.0.0 scontent-a-ort.cdninstagram.com
-0.0.0.0 scontent-b-ort.cdninstagram.com
-0.0.0.0 scontent-a-otp.cdninstagram.com
-0.0.0.0 scontent-b-otp.cdninstagram.com
-0.0.0.0 scontent-otp1-1.cdninstagram.com
-0.0.0.0 scontent-a-scl.cdninstagram.com
-0.0.0.0 scontent-b-scl.cdninstagram.com
-0.0.0.0 scontent-scl1-1.cdninstagram.com
-0.0.0.0  scontent-a-sea.cdninstagram.com
-0.0.0.0  scontent-b-sea.cdninstagram.com
-0.0.0.0  scontent-sea1-1.cdninstagram.com
-0.0.0.0 scontent-a-sin.cdninstagram.com
-0.0.0.0 scontent-b-sin.cdninstagram.com
-0.0.0.0  scontent-a-sit.cdninstagram.com
-0.0.0.0  scontent-b-sit.cdninstagram.com
-0.0.0.0  scontent-sit4-1.cdninstagram.com
-0.0.0.0 scontent-a-sjc.cdninstagram.com
-0.0.0.0 scontent-b-sjc.cdninstagram.com
-0.0.0.0 scontent-sjc3-1.cdninstagram.com
-0.0.0.0  scontent-a-sof.cdninstagram.com
-0.0.0.0  scontent-b-sof.cdninstagram.com
-0.0.0.0  scontent-sof1-1.cdninstagram.com
-0.0.0.0 scontent-a-syd.cdninstagram.com
-0.0.0.0 scontent-b-syd.cdninstagram.com
-0.0.0.0 scontent-syd2-1.cdninstagram.com
-0.0.0.0 scontent-a-tpe.cdninstagram.com
-0.0.0.0 scontent-b-tpe.cdninstagram.com
-0.0.0.0 scontent-tpe1-1.cdninstagram.com
-0.0.0.0 scontent-a-vie.cdninstagram.com
-0.0.0.0 scontent-b-vie.cdninstagram.com
-0.0.0.0 scontent-vie1-1.cdninstagram.com
-0.0.0.0 scontent-a-waw.cdninstagram.com
-0.0.0.0 scontent-b-waw.cdninstagram.com
-0.0.0.0 scontent-waw1-1.cdninstagram.com
-0.0.0.0 scontent-a-yyz.cdninstagram.com
-0.0.0.0 scontent-b-yyz.cdninstagram.com
-0.0.0.0 scontent-yyz1-1.cdninstagram.com
-0.0.0.0  scontent-gru2-1.cdninstagram.com
-0.0.0.0  scontent-gru2-2.cdninstagram.com
-0.0.0.0  scontent-hkg3-1.cdninstagram.com
-0.0.0.0  scontent-hkg3-2.cdninstagram.com
-0.0.0.0  scontent-kut2-1.cdninstagram.com
-0.0.0.0 scontent-kut2-2.cdninstagram.com
-0.0.0.0  scontent-lax3-1.cdninstagram.com
-0.0.0.0  scontent-lax3-2.cdninstagram.com
-0.0.0.0 scontent-ort2-1.cdninstagram.com
-0.0.0.0  scontent-ort2-2.cdninstagram.com
-0.0.0.0 scontent-sin6-1.cdninstagram.com
-0.0.0.0  scontent-sin6-2.cdninstagram.com
+instagram.com
+www.instagram.com
+badges.instagram.com
+graph.instagram.com
+logger.instagram.com
+maps.instagram.com
+i.instagram.com
+api.instagram.com
+help.instagram.com
+platform.instagram.com
+blog.instagram.com
+images.ak.instagram.com
+static.ak.instagram.com
+scontent.cdninstagram.com
+scontent-a.cdninstagram.com
+scontent-b.cdninstagram.com
+scontent-a-ams.cdninstagram.com
+scontent-b-ams.cdninstagram.com
+scontent-ams3-1.cdninstagram.com
+scontent-a-amt.cdninstagram.com
+scontent-b-amt.cdninstagram.com
+scontent-amt2-1.cdninstagram.com
+scontent-a-arn.cdninstagram.com
+scontent-b-arn.cdninstagram.com
+scontent-arn2-1.cdninstagram.com
+scontent-a-atl.cdninstagram.com
+scontent-b-atl.cdninstagram.com
+scontent-atl3-1.cdninstagram.com
+scontent-a-bog.cdninstagram.com
+scontent-b-bog.cdninstagram.com
+scontent-bog1-1.cdninstagram.com
+scontent-a-bru.cdninstagram.com
+scontent-b-bru.cdninstagram.com
+scontent-bru2-1.cdninstagram.com
+scontent-a-cdg.cdninstagram.com
+scontent-b-cdg.cdninstagram.com
+scontent-cdg2-1.cdninstagram.com
+scontent-a-eze.cdninstagram.com
+scontent-b-eze.cdninstagram.com
+scontent-eze1-1.cdninstagram.com
+scontent-a-frt.cdninstagram.com
+scontent-b-frt.cdninstagram.com
+scontent-frt3-1.cdninstagram.com
+scontent-a-frx.cdninstagram.com
+scontent-b-frx.cdninstagram.com
+scontent-frx5-1.cdninstagram.com
+scontent-a-gru.cdninstagram.com
+scontent-b-gru.cdninstagram.com
+scontent-a-hkg.cdninstagram.com
+scontent-b-hkg.cdninstagram.com
+scontent-a-iad.cdninstagram.com
+scontent-b-iad.cdninstagram.com
+scontent-iad.cdninstagram.com
+scontent-iad3-1.cdninstagram.com
+scontent-a-icn.cdninstagram.com
+scontent-b-icn.cdninstagram.com
+scontent-icn1-1.cdninstagram.com
+scontent-a-kut.cdninstagram.com
+scontent-b-kut.cdninstagram.com
+scontent-a-lax.cdninstagram.com
+scontent-b-lax.cdninstagram.com
+scontent-lax.cdninstagram.com
+scontent-a-lga.cdninstagram.com
+scontent-b-lga.cdninstagram.com
+scontent-lga.cdninstagram.com
+scontent-lga3-1.cdninstagram.com
+scontent-a-lhr.cdninstagram.com
+scontent-b-lhr.cdninstagram.com
+scontent-lhr3-1.cdninstagram.com
+scontent-a-lht.cdninstagram.com
+scontent-b-lht.cdninstagram.com
+scontent-lht6-1.cdninstagram.com
+scontent-a-mad.cdninstagram.com
+scontent-b-mad.cdninstagram.com
+scontent-mad1-1.cdninstagram.comc
+scontent-a-mrs.cdninstagram.com
+scontent-b-mrs.cdninstagram.com
+scontent-mrs1-1.cdninstagram.com
+scontent-a-mxp.cdninstagram.com
+scontent-b-mxp.cdninstagram.com
+scontent-mxp1-1.cdninstagram.com
+scontent-a-nrt.cdninstagram.com
+scontent-b-nrt.cdninstagram.com
+scontent-nrt1-1.cdninstagram.com
+scontent-a-ort.cdninstagram.com
+scontent-b-ort.cdninstagram.com
+scontent-a-otp.cdninstagram.com
+scontent-b-otp.cdninstagram.com
+scontent-otp1-1.cdninstagram.com
+scontent-a-scl.cdninstagram.com
+scontent-b-scl.cdninstagram.com
+scontent-scl1-1.cdninstagram.com
+scontent-a-sea.cdninstagram.com
+scontent-b-sea.cdninstagram.com
+scontent-sea1-1.cdninstagram.com
+scontent-a-sin.cdninstagram.com
+scontent-b-sin.cdninstagram.com
+scontent-a-sit.cdninstagram.com
+scontent-b-sit.cdninstagram.com
+scontent-sit4-1.cdninstagram.com
+scontent-a-sjc.cdninstagram.com
+scontent-b-sjc.cdninstagram.com
+scontent-sjc3-1.cdninstagram.com
+scontent-a-sof.cdninstagram.com
+scontent-b-sof.cdninstagram.com
+scontent-sof1-1.cdninstagram.com
+scontent-a-syd.cdninstagram.com
+scontent-b-syd.cdninstagram.com
+scontent-syd2-1.cdninstagram.com
+scontent-a-tpe.cdninstagram.com
+scontent-b-tpe.cdninstagram.com
+scontent-tpe1-1.cdninstagram.com
+scontent-a-vie.cdninstagram.com
+scontent-b-vie.cdninstagram.com
+scontent-vie1-1.cdninstagram.com
+scontent-a-waw.cdninstagram.com
+scontent-b-waw.cdninstagram.com
+scontent-waw1-1.cdninstagram.com
+scontent-a-yyz.cdninstagram.com
+scontent-b-yyz.cdninstagram.com
+scontent-yyz1-1.cdninstagram.com
+scontent-gru2-1.cdninstagram.com
+scontent-gru2-2.cdninstagram.com
+scontent-hkg3-1.cdninstagram.com
+scontent-hkg3-2.cdninstagram.com
+scontent-kut2-1.cdninstagram.com
+scontent-kut2-2.cdninstagram.com
+scontent-lax3-1.cdninstagram.com
+scontent-lax3-2.cdninstagram.com
+scontent-ort2-1.cdninstagram.com
+scontent-ort2-2.cdninstagram.com
+scontent-sin6-1.cdninstagram.com
+scontent-sin6-2.cdninstagram.com
 # Instagram End
 
 # issuu Start
-0.0.0.0  issuu.com
-0.0.0.0  www.issuu.com
-0.0.0.0  developers.issuu.com
-0.0.0.0  page.issuu.com
-0.0.0.0  blog.issuu.com
-0.0.0.0 pingback.issuu.com
-0.0.0.0 photo.issuu.com
-0.0.0.0 image.issuu.com
-0.0.0.0 content.issuu.com
-0.0.0.0 e.issuu.com
-0.0.0.0 static.issuu.com
-0.0.0.0 skin.issuu.com
-0.0.0.0  api.issuu.com
-0.0.0.0 help.issuu.com
+issuu.com
+www.issuu.com
+developers.issuu.com
+page.issuu.com
+blog.issuu.com
+pingback.issuu.com
+photo.issuu.com
+image.issuu.com
+content.issuu.com
+e.issuu.com
+static.issuu.com
+skin.issuu.com
+api.issuu.com
+help.issuu.com
 # issuu End
 
 
 # Kik Start
-0.0.0.0 www.kik.com
+www.kik.com
 # Kik End
 
 
 # MEGA Start
-0.0.0.0 mega.nz
-0.0.0.0  g.cdn1.mega.co.nz
+mega.nz
+g.cdn1.mega.co.nz
 # MEGA End
 
 
 # Pinterest Start
-0.0.0.0  pinterest.com
-0.0.0.0  www.pinterest.com
-0.0.0.0  about.pinterest.com
-0.0.0.0  blog.pinterest.com
-0.0.0.0  ads.pinterest.com
-0.0.0.0  api.pinterest.com
-0.0.0.0  analytics.pinterest.com
-0.0.0.0  br.pinterest.com
-0.0.0.0  business.pinterest.com
-0.0.0.0  canary.pinterest.com
-0.0.0.0  cz.pinterest.com
-0.0.0.0  de.pinterest.com
-0.0.0.0  dk.pinterest.com
-0.0.0.0  es.pinterest.com
-0.0.0.0  fi.pinterest.com
-0.0.0.0  fr.pinterest.com
-0.0.0.0  gb.pinterest.com
-0.0.0.0  gr.pinterest.com
-0.0.0.0  help.pinterest.com
-0.0.0.0  hu.pinterest.com
-0.0.0.0  id.pinterest.com
-0.0.0.0  in.pinterest.com
-0.0.0.0  it.pinterest.com
-0.0.0.0  jp.pinterest.com
-0.0.0.0  kr.pinterest.com
-0.0.0.0  media-cache-ec0.pinterest.com
-0.0.0.0  pl.pinterest.com
-0.0.0.0  pt.pinterest.com
-0.0.0.0  ro.pinterest.com
-0.0.0.0  ru.pinterest.com
-0.0.0.0  se.pinterest.com
-0.0.0.0  sk.pinterest.com
-0.0.0.0  tr.pinterest.com
-0.0.0.0  uk.pinterest.com
-0.0.0.0  no.pinterest.com
-0.0.0.0  nl.pinterest.com
-0.0.0.0  engineering.pinterest.com
-0.0.0.0 dev.pinterest.com
-0.0.0.0  post.pinterest.com
-0.0.0.0  trk.pinterest.com
-0.0.0.0 developers.pinterest.com
-0.0.0.0  passets-cdn.pinterest.com
-0.0.0.0  i.pinimg.com
-0.0.0.0 s.pinimg.com
-0.0.0.0  s-media-cache-ak0.pinimg.com
+pinterest.com
+www.pinterest.com
+about.pinterest.com
+blog.pinterest.com
+ads.pinterest.com
+api.pinterest.com
+analytics.pinterest.com
+br.pinterest.com
+business.pinterest.com
+canary.pinterest.com
+cz.pinterest.com
+de.pinterest.com
+dk.pinterest.com
+es.pinterest.com
+fi.pinterest.com
+fr.pinterest.com
+gb.pinterest.com
+gr.pinterest.com
+help.pinterest.com
+hu.pinterest.com
+id.pinterest.com
+in.pinterest.com
+it.pinterest.com
+jp.pinterest.com
+kr.pinterest.com
+media-cache-ecnterest.com
+pl.pinterest.com
+pt.pinterest.com
+ro.pinterest.com
+ru.pinterest.com
+se.pinterest.com
+sk.pinterest.com
+tr.pinterest.com
+uk.pinterest.com
+no.pinterest.com
+nl.pinterest.com
+engineering.pinterest.com
+dev.pinterest.com
+post.pinterest.com
+trk.pinterest.com
+developers.pinterest.com
+passets-cdn.pinterest.com
+i.pinimg.com
+s.pinimg.com
+s-media-cache-aknimg.com
 # Pinterest End
 
 
 # Soundcloud Start
-0.0.0.0 soundcloud.com
-0.0.0.0 api-v2.soundcloud.com
-0.0.0.0 telemetry.soundcloud.com
-0.0.0.0  l9bjkkhaycw6f8f4.soundcloud.com
-0.0.0.0  api.soundcloud.com
-0.0.0.0  eventgateway.soundcloud.com
-0.0.0.0  promoted.soundcloud.com
-0.0.0.0  m.soundcloud.com
-0.0.0.0  on.soundcloud.com
-0.0.0.0  visuals.soundcloud.com
-0.0.0.0 blog.soundcloud.com
-0.0.0.0  ec-media.soundcloud.com
-0.0.0.0 ec-rtmp-media.soundcloud.com
-0.0.0.0  ec-media.sndcdn.com
-0.0.0.0 a1.sndcdn.com
-0.0.0.0 a-v2.sndcdn.com
-0.0.0.0 ec-preview-media.sndcdn.com
-0.0.0.0 style.sndcdn.com
-0.0.0.0 va.sndcdn.com
+soundcloud.com
+api-v2.soundcloud.com
+telemetry.soundcloud.com
+l9bjkkhaycw6f8f4.soundcloud.com
+api.soundcloud.com
+eventgateway.soundcloud.com
+promoted.soundcloud.com
+m.soundcloud.com
+on.soundcloud.com
+visuals.soundcloud.com
+blog.soundcloud.com
+ec-media.soundcloud.com
+ec-rtmp-media.soundcloud.com
+ec-media.sndcdn.com
+a1.sndcdn.com
+a-v2.sndcdn.com
+ec-preview-media.sndcdn.com
+style.sndcdn.com
+va.sndcdn.com
 # Soundcloud End
 
 
 # Steam Start
-0.0.0.0 steamcommunity.com
+steamcommunity.com
 # Steam End
 
 
 # Tumblr Start
-0.0.0.0 tumblr.com
-0.0.0.0 www.tumblr.com
-0.0.0.0 tumblr.co
-0.0.0.0  api.tumblr.com
-0.0.0.0  secure.static.tumblr.com
-0.0.0.0  vt.media.tumblr.com
-0.0.0.0  api-http2.tumblr.com
-0.0.0.0  assets.tumblr.com
-0.0.0.0  secure.assets.tumblr.com
-0.0.0.0  static.tumblr.com
-0.0.0.0  media.tumblr.com
-0.0.0.0  vt.tumblr.com
-0.0.0.0  vtt.tumblr.com
-0.0.0.0  cynicallys.tumblr.com
-0.0.0.0 mx.tumblr.com
-0.0.0.0  24.media.tumblr.com
-0.0.0.0  25.media.tumblr.com
-0.0.0.0  31.media.tumblr.com
-0.0.0.0  33.media.tumblr.com
-0.0.0.0  37.media.tumblr.com
-0.0.0.0  38.media.tumblr.com
-0.0.0.0  40.media.tumblr.com
-0.0.0.0  49.media.tumblr.com
-0.0.0.0  55.media.tumblr.com
-0.0.0.0  56.media.tumblr.com
-0.0.0.0  57.media.tumblr.com
-0.0.0.0  66.media.tumblr.com
-0.0.0.0  58.media.tumblr.com
-0.0.0.0  68.media.tumblr.com
-0.0.0.0  78.media.tumblr.com
-0.0.0.0  90.media.tumblr.com
-0.0.0.0  92.media.tumblr.com
-0.0.0.0 ls.srvcs.tumblr.com
-0.0.0.0 px.srvcs.tumblr.com
-0.0.0.0  96.media.tumblr.com
-0.0.0.0  97.media.tumblr.com
+tumblr.com
+www.tumblr.com
+tumblr.co
+api.tumblr.com
+secure.static.tumblr.com
+vt.media.tumblr.com
+api-http2.tumblr.com
+assets.tumblr.com
+secure.assets.tumblr.com
+static.tumblr.com
+media.tumblr.com
+vt.tumblr.com
+vtt.tumblr.com
+cynicallys.tumblr.com
+mx.tumblr.com
+24.media.tumblr.com
+25.media.tumblr.com
+31.media.tumblr.com
+33.media.tumblr.com
+37.media.tumblr.com
+38.media.tumblr.com
+4dia.tumblr.com
+49.media.tumblr.com
+55.media.tumblr.com
+56.media.tumblr.com
+57.media.tumblr.com
+66.media.tumblr.com
+58.media.tumblr.com
+68.media.tumblr.com
+78.media.tumblr.com
+9dia.tumblr.com
+92.media.tumblr.com
+ls.srvcs.tumblr.com
+px.srvcs.tumblr.com
+96.media.tumblr.com
+97.media.tumblr.com
 # Tumblr End
 
 
 # Twitch Start
-0.0.0.0  twitch.tv
-0.0.0.0 www.twitch.tv
-0.0.0.0  app.twitch.tv
-0.0.0.0 api.twitch.tv
-0.0.0.0  badges.twitch.tv
-0.0.0.0  blog.twitch.tv
-0.0.0.0 client-event-reporter.twitch.tv
-0.0.0.0 cvp.twitch.tv
-0.0.0.0 countess.twitch.tv
-0.0.0.0 dev.twitch.tv
-0.0.0.0 discuss.dev.twitch.tv
-0.0.0.0 extension-files.twitch.tv
-0.0.0.0 gql.twitch.tv
-0.0.0.0 help.twitch.tv
-0.0.0.0 player.twitch.tv
-0.0.0.0 passport.twitch.tv
-0.0.0.0  spade.twitch.tv
-0.0.0.0 trowel.twitch.tv
-0.0.0.0 music.twitch.tv
-0.0.0.0 spade.sci.twitch.tv
-0.0.0.0 clips-media-assets2.twitch.tv
-0.0.0.0  usher.ttvnw.net
-0.0.0.0  vod-storyboards.twitch.tv
-0.0.0.0  pubsub-edge.twitch.tv
-0.0.0.0 irc-ws.chat.twitch.tv
-0.0.0.0 video-weaver.sjc02.hls.ttvnw.net
-0.0.0.0  video-edge-6c210a.sjc02.hls.ttvnw.net
-0.0.0.0 video-edge-91c358.sjc02.hls.ttvnw.net
-0.0.0.0  video-edge-98de7c.sjc02.hls.ttvnw.net
-0.0.0.0 video-edge-a37110.sjc02.abs.hls.ttvnw.net
-0.0.0.0 video-edge-a4da6d.sjc02.hls.ttvnw.net
-0.0.0.0 video-edge-af973f.sjc02.hls.ttvnw.net
-0.0.0.0  video-edge-7ea270.sjc02.abs.hls.ttvnw.net
+twitch.tv
+www.twitch.tv
+app.twitch.tv
+api.twitch.tv
+badges.twitch.tv
+blog.twitch.tv
+client-event-reporter.twitch.tv
+cvp.twitch.tv
+countess.twitch.tv
+dev.twitch.tv
+discuss.dev.twitch.tv
+extension-files.twitch.tv
+gql.twitch.tv
+help.twitch.tv
+player.twitch.tv
+passport.twitch.tv
+spade.twitch.tv
+trowel.twitch.tv
+music.twitch.tv
+spade.sci.twitch.tv
+clips-media-assets2.twitch.tv
+usher.ttvnw.net
+vod-storyboards.twitch.tv
+pubsub-edge.twitch.tv
+irc-ws.chat.twitch.tv
+video-weaver.sjcls.ttvnw.net
+video-edge-6c21jcls.ttvnw.net
+video-edge-91c358.sjcls.ttvnw.net
+video-edge-98de7c.sjcls.ttvnw.net
+video-edge-a3711cbs.hls.ttvnw.net
+video-edge-a4da6d.sjcls.ttvnw.net
+video-edge-af973f.sjcls.ttvnw.net
+video-edge-7ea27cbs.hls.ttvnw.net
 # Twitch End
 
 # Twitter Start
-0.0.0.0 abs.twimg.com
-0.0.0.0 pbs.twimg.com
-0.0.0.0 ton.twimg.com
+abs.twimg.com
+pbs.twimg.com
+ton.twimg.com
 # Twitter End
 
 # Vimeo Start
-0.0.0.0 vimeo.com
-0.0.0.0 api.vimeo.com
-0.0.0.0  www.vimeo.com
-0.0.0.0 player.vimeo.com
-0.0.0.0  i.vimeocdn.com
-0.0.0.0 f.vimeocdn.com
-0.0.0.0  vimeo-hp-videos.global.ssl.fastly.net
-0.0.0.0 click.email.vimeo.com
+vimeo.com
+api.vimeo.com
+www.vimeo.com
+player.vimeo.com
+i.vimeocdn.com
+f.vimeocdn.com
+vimeo-hp-videos.global.ssl.fastly.net
+click.email.vimeo.com
 # Vimeo End
 
 
 # Whatsapp Start
-0.0.0.0  www-cdn.whatsapp.net
-0.0.0.0  faq.whatsapp.com
-0.0.0.0  crashlogs.whatsapp.net
-0.0.0.0  mmg-fna.whatsapp.net
-0.0.0.0  mmh.whatsapp.net
-0.0.0.0 whatsapp.com
-0.0.0.0 www.whatsapp.com
-0.0.0.0 blog.whatsapp.com
-0.0.0.0 web.whatsapp.com
-0.0.0.0 dyn.web.whatsapp.com
-0.0.0.0 w1.web.whatsapp.com
-0.0.0.0 w2.web.whatsapp.com
-0.0.0.0 w3.web.whatsapp.com
-0.0.0.0 w4.web.whatsapp.com
-0.0.0.0 w5.web.whatsapp.com
-0.0.0.0 w6.web.whatsapp.com
-0.0.0.0 w7.web.whatsapp.com
-0.0.0.0 w8.web.whatsapp.com
-0.0.0.0  mms.whatsapp.net
-0.0.0.0  c.whatsapp.net
-0.0.0.0  m.whatsapp.net
-0.0.0.0 p.whatsapp.net
-0.0.0.0  r.whatsapp.net
-0.0.0.0  v.whatsapp.net
-0.0.0.0 e1.whatsapp.net
-0.0.0.0 e2.whatsapp.net
-0.0.0.0 e3.whatsapp.net
-0.0.0.0 e4.whatsapp.net
-0.0.0.0 e5.whatsapp.net
-0.0.0.0 e6.whatsapp.net
-0.0.0.0 e7.whatsapp.net
-0.0.0.0 e8.whatsapp.net
-0.0.0.0 e9.whatsapp.net
-0.0.0.0 e10.whatsapp.net
-0.0.0.0 e11.whatsapp.net
-0.0.0.0 e12.whatsapp.net
-0.0.0.0 e13.whatsapp.net
-0.0.0.0 e14.whatsapp.net
-0.0.0.0 e15.whatsapp.net
-0.0.0.0 e16.whatsapp.net
+www-cdn.whatsapp.net
+faq.whatsapp.com
+crashlogs.whatsapp.net
+mmg-fna.whatsapp.net
+mmh.whatsapp.net
+whatsapp.com
+www.whatsapp.com
+blog.whatsapp.com
+web.whatsapp.com
+dyn.web.whatsapp.com
+w1.web.whatsapp.com
+w2.web.whatsapp.com
+w3.web.whatsapp.com
+w4.web.whatsapp.com
+w5.web.whatsapp.com
+w6.web.whatsapp.com
+w7.web.whatsapp.com
+w8.web.whatsapp.com
+mms.whatsapp.net
+c.whatsapp.net
+m.whatsapp.net
+p.whatsapp.net
+r.whatsapp.net
+v.whatsapp.net
+e1.whatsapp.net
+e2.whatsapp.net
+e3.whatsapp.net
+e4.whatsapp.net
+e5.whatsapp.net
+e6.whatsapp.net
+e7.whatsapp.net
+e8.whatsapp.net
+e9.whatsapp.net
+e1atsapp.net
+e11.whatsapp.net
+e12.whatsapp.net
+e13.whatsapp.net
+e14.whatsapp.net
+e15.whatsapp.net
+e16.whatsapp.net
 # Whatsapp End
 
 # shopping and distraction
-0.0.0.0 ozbargain.com.au
-0.0.0.0 aliexpress.com
-0.0.0.0 www.aliexpress.com
-0.0.0.0 ae01.alicdn.com
+ozbargain.com.au
+aliexpress.com
+www.aliexpress.com
+aelicdn.com
 
-0.0.0.0 ebay.com
-0.0.0.0 ebay.com.au
-0.0.0.0 i.ebayimg.com
-0.0.0.0 ir.ebaystatic.com
-0.0.0.0 ocsrest.ebay.com.au
-0.0.0.0 pages.ebay.com
-0.0.0.0 rover.ebay.com.au
-0.0.0.0 www.ebay.com.au
+ebay.com
+ebay.com.au
+i.ebayimg.com
+ir.ebaystatic.com
+ocsrest.ebay.com.au
+pages.ebay.com
+rover.ebay.com.au
+www.ebay.com.au
 
-0.0.0.0 aax-fe.amazon-adsystem.com
-0.0.0.0 amazon.com
-0.0.0.0 amazon.com.au
-0.0.0.0 fls-fe.amazon.co.jp
-0.0.0.0 images-fe.ssl-images-amazon.com
-0.0.0.0 images-na.ssl-images-amazon.com
-0.0.0.0 m.media-amazon.com
-0.0.0.0 unagi-fe.amazon.com
-0.0.0.0 www.amazon.com
-0.0.0.0 www.amazon.com.au
+aax-fe.amazon-adsystem.com
+amazon.com
+amazon.com.au
+fls-fe.amazon.co.jp
+images-fe.ssl-images-amazon.com
+images-na.ssl-images-amazon.com
+m.media-amazon.com
+unagi-fe.amazon.com
+www.amazon.com
+www.amazon.com.au
 
-0.0.0.0 cdn.optimizely.com
-0.0.0.0 gumtree.com.au
-0.0.0.0 i.ebayimg.com
-0.0.0.0 ssl-gumtree.classistatic.com
-0.0.0.0 ssl.google-analytics.com
-0.0.0.0 www.googletagmanager.com
-0.0.0.0 www.googletagservices.com
-0.0.0.0 www.gumtree.com.au
+cdn.optimizely.com
+gumtree.com.au
+i.ebayimg.com
+ssl-gumtree.classistatic.com
+ssl.google-analytics.com
+www.googletagmanager.com
+www.googletagservices.com
+www.gumtree.com.au
+
+
+# Youtube Start
+youtube.com
+youtu.be
+au.youtube.com
+ca.youtube.com
+de.youtube.com
+jp.youtube.com
+ru.youtube.com
+tw.youtube.com
+uk.youtube.com
+youtube-ui.l.google.com
+ads.youtube.com
+accounts.youtube.com
+analytics.youtube.com
+apiblog.youtube.com
+creatoracademy.youtube.com
+s.youtube.com
+gdata.youtube.com
+gaming.youtube.com
+help.youtube.com
+img.youtube.com
+insight.youtube.com
+stage.gdata.youtube.com
+tv.youtube.com
+www.youtube-nocookie.com
+ytimg.com
+ytimg.com
+ytimg.com
+ytimg.com
+ytimg.com
+i.ytimg.com
+s.ytimg.com
+www.youtube.com
+m.youtube.com
+# Youtube End
+
+# Games
+# roblox
+images.rbxcdn.com
+metrics.roblox.com
+roblox.com
+ecsv2.roblox.com
+www.roblox.com
+sb.scorecardresearch.com
+js.rbxcdn.com
+authsite.roblox.com
+roblox-api.arkoselabs
+static.rbxcdn.com
+# Games End
 
 # India News
-0.0.0.0 loksatta.com
-0.0.0.0 www.loksatta.com
-0.0.0.0 lokmat.com
-0.0.0.0 esakal.com
-0.0.0.0 maharashtratimes.com
-0.0.0.0 maharashtratimes.indiatimes.com
-0.0.0.0 thehindu.com
-0.0.0.0 hindustantimes.com
-0.0.0.0 indiatoday.in
-0.0.0.0 ndtv.com
-0.0.0.0 rediff.com
-0.0.0.0 indianexpress.com
-0.0.0.0 timesnownews.com
-0.0.0.0 www.thehindu.com
-0.0.0.0 www.hindustantimes.com
-0.0.0.0 www.indiatoday.in
-0.0.0.0 www.ndtv.com
-0.0.0.0 www.rediff.com
-0.0.0.0 www.lokmat.com
-0.0.0.0 www.esakal.com
-0.0.0.0 www.maharashtratimes.com
-0.0.0.0 www.firstpost.com
-0.0.0.0 www.dnaindia.com
-0.0.0.0 www.timesnownews.com
-0.0.0.0 osmanabadlive.com
-0.0.0.0 www.osmanabadlive.com
-0.0.0.0 www.saamana.com
-0.0.0.0 aajtak.intoday.in
-0.0.0.0 intoday.in
+loksatta.com
+www.loksatta.com
+lokmat.com
+esakal.com
+maharashtratimes.com
+maharashtratimes.indiatimes.com
+thehindu.com
+hindustantimes.com
+indiatoday.in
+ndtv.com
+rediff.com
+indianexpress.com
+timesnownews.com
+www.thehindu.com
+www.hindustantimes.com
+www.indiatoday.in
+www.ndtv.com
+www.rediff.com
+www.lokmat.com
+www.esakal.com
+www.maharashtratimes.com
+www.firstpost.com
+www.dnaindia.com
+www.timesnownews.com
+osmanabadlive.com
+www.osmanabadlive.com
+www.saamana.com
+aajtak.intoday.in
+intoday.in
 
 #  Additional fake news
-0.0.0.0 Shankhnad.org
+Shankhnad.org
 
 #  India fake news
-0.0.0.0 rightlog.in
-0.0.0.0 shankhnaad.net
-0.0.0.0 janamejayan.wordpress.com
-0.0.0.0 theindianvoice.com
-0.0.0.0 dynastycrooks.wordpress.com
-0.0.0.0 mediacrooks.com
-0.0.0.0 pappugandhi.com
-0.0.0.0 pgurus.com
-0.0.0.0 dainikbharat.org
-0.0.0.0 postcard.news
-0.0.0.0 timesnow.tv
-0.0.0.0 republicworld.com
-0.0.0.0 hindi.oneindia.com
-0.0.0.0 hindi.insistpost.com
-0.0.0.0 hindutva.info
-0.0.0.0 satyavijayi.com
-0.0.0.0 hindutva.com
-0.0.0.0 zeenews.india.com
-0.0.0.0 internethindu.in
-0.0.0.0 hinduexistence.org
-0.0.0.0 trollindianpolitics.com
-0.0.0.0 viralinindia.in
-0.0.0.0 newstrend.news
-0.0.0.0 chaskatimes.com
-0.0.0.0 newsbust.co.in
-0.0.0.0 indiatrendingnow.com
-0.0.0.0 newstoindia.com
-0.0.0.0 reportadda.com
-0.0.0.0 puridunia.com
-0.0.0.0 indiadrifts.com
-0.0.0.0 hindupost.in
-0.0.0.0 raymondibrahim.com
-0.0.0.0 thelotpot.com
-0.0.0.0 rightactions.in
-0.0.0.0 theresurgentindia.com
-0.0.0.0 newsblood.com
-0.0.0.0 99wiki.com
-0.0.0.0 opindia.com
-0.0.0.0 ujjawalprabhat.com
-0.0.0.0 trendinghindinews.com
-0.0.0.0 saffronswastik.com
-0.0.0.0 ddbharti.in
-0.0.0.0 newsloose.com
-0.0.0.0 logicalbharat.com
-0.0.0.0 mobilenews24.com
-0.0.0.0 namanbharat.com
-0.0.0.0 namopress.com
-0.0.0.0 readindiaright.com
-0.0.0.0 indianvoice.info
-0.0.0.0 inkhabar.com
-0.0.0.0 healthakhbar.com
-0.0.0.0 nationfirst.online
-0.0.0.0 justindianews.com
-0.0.0.0 indiankhabar.in
-0.0.0.0 kattarhindu.com
-0.0.0.0 hinduakhbar.com
-0.0.0.0 hinduamarujala.info
-0.0.0.0 authenticinfomania.com
-0.0.0.0 dainikakhbar.com
-0.0.0.0 jagbharat.com
-0.0.0.0 indiatimes.com
-0.0.0.0 timesofindia.indiatimes.com
-0.0.0.0 navbharattimes.indiatimes.com
-0.0.0.0 newspur.in
-0.0.0.0 srishtanews.com
-0.0.0.0 aagazindia.com
-0.0.0.0 sudarshannews.com
-0.0.0.0 rajivdixitji.com
-0.0.0.0 khabartrend.in
-0.0.0.0 mobilenews24.com
-0.0.0.0 thenationpost.in
-0.0.0.0 hindi.news18.com
-0.0.0.0 news18.com
-0.0.0.0 thetruepicture.in
+rightlog.in
+shankhnaad.net
+janamejayan.wordpress.com
+theindianvoice.com
+dynastycrooks.wordpress.com
+mediacrooks.com
+pappugandhi.com
+pgurus.com
+dainikbharat.org
+postcard.news
+timesnow.tv
+republicworld.com
+hindi.oneindia.com
+hindi.insistpost.com
+hindutva.info
+satyavijayi.com
+hindutva.com
+zeenews.india.com
+internethindu.in
+hinduexistence.org
+trollindianpolitics.com
+viralinindia.in
+newstrend.news
+chaskatimes.com
+newsbust.co.in
+indiatrendingnow.com
+newstoindia.com
+reportadda.com
+puridunia.com
+indiadrifts.com
+hindupost.in
+raymondibrahim.com
+thelotpot.com
+rightactions.in
+theresurgentindia.com
+newsblood.com
+99wiki.com
+opindia.com
+ujjawalprabhat.com
+trendinghindinews.com
+saffronswastik.com
+ddbharti.in
+newsloose.com
+logicalbharat.com
+mobilenews24.com
+namanbharat.com
+namopress.com
+readindiaright.com
+indianvoice.info
+inkhabar.com
+healthakhbar.com
+nationfirst.online
+justindianews.com
+indiankhabar.in
+kattarhindu.com
+hinduakhbar.com
+hinduamarujala.info
+authenticinfomania.com
+dainikakhbar.com
+jagbharat.com
+indiatimes.com
+timesofindia.indiatimes.com
+navbharattimes.indiatimes.com
+newspur.in
+srishtanews.com
+aagazindia.com
+sudarshannews.com
+rajivdixitji.com
+khabartrend.in
+mobilenews24.com
+thenationpost.in
+hindi.news18.com
+news18.com
+thetruepicture.in
