@@ -471,6 +471,8 @@ e14.whatsapp.net
 e15.whatsapp.net
 e16.whatsapp.net
 ozbargain.com.au
+www.ozbargain.com.au
+news.ycombinator.com
 aliexpress.com
 www.aliexpress.com
 aelicdn.com
