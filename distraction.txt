@@ -535,6 +535,7 @@ i.ytimg.com
 s.ytimg.com
 www.youtube.com
 m.youtube.com
+youtubei.googleapis.com
 images.rbxcdn.com
 metrics.roblox.com
 roblox.com
